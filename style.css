@@ -113,32 +113,17 @@ h1 {
 }
 
 .a {
+  
   border-radius: 67px;
-  margin-left: 90px;
-  margin-bottom: 10px;
-  padding: 106px;
+ padding: 52px;
+ 
+  
   border: 2px solid #eda12f;
 }
-.b {
-  border-radius: 67px;
-  margin-left: 37px;
-  padding: 106px;
-  border: 2px solid #eda12f;
-}
-.c {
-  border-radius: 67px;
-  margin-left: 27px;
-  padding: 106px;
-  border: 2px solid #eda12f;
+.b{
+  margin-left:39px ;
 }
 
-.d {
-  border-radius: 67px;
-  margin-left: 27px;
-
-  padding: 106px;
-  border: 2px solid #eda12f;
-}
 
 .clogo{
   margin: 10px;
@@ -152,16 +137,39 @@ h1 {
   width: 250px;
   height: 60px;
   margin: 24px;
-  margin-left: 573px;
+  margin-left: 470px;
 }
 #more{
-  background: linear-gradient(61deg,#FF8008 0%,#FFC837 100%);
-  background-color: #eda12f;
+color: #eda12f;
+  background-color: #fff3e2;
   border: 2px solid #eda12f;
   border-radius: 10px;
   width: 250px;
   height: 60px;
   margin: 24px;
+ 
+}
+#learn2{
+  background: linear-gradient(61deg,#FF8008 0%,#FFC837 100%);
+  background-color: #eda12f;
+  border: 2px solid #eda12f;
+  
+  border-radius: 10px;
+  width: 150px;
+  height: 60px;
+  margin: 3px;
+  margin-top: 30px;
+}
+#more2{
+  color: #eda12f;
+  background-color: #fff3e2;
+ 
+  border: 2px solid #eda12f;
+  border-radius: 10px;
+  width: 250px;
+  height: 60px;
+  margin-left: 155px;
+  margin-top: 30px;
  
 }
 .xyz{
@@ -170,4 +178,13 @@ h1 {
 
 .lorem{
   margin: 10px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #eee1d1;
+  color: black;
+  text-align: center;
 }

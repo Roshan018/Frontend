@@ -1,0 +1,77 @@
+.asb {
+    margin: 25px;
+  }
+  
+  header {
+    background-color: #fff3e2;
+    width: 100%;
+    height: auto;
+  }
+  .menu {
+    list-style-type: none;
+    display: inline;
+  }
+  .menu ul li {
+    line-height: 70px;
+    padding: 14px;
+  
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-weight: 300;
+  }
+  .menu ul li a {
+    text-decoration: none;
+    color: black;
+  }
+  #enroll {background: linear-gradient(61deg,#FF8008 0%,#FFC837 100%);
+    border-radius: 10px;
+    border: 2px solid #eda12f;
+    background-color: #eda12f;
+    padding: 10px;
+  }
+  #enroll:hover {
+    background-color: #fc9a06;
+  }
+  .inline_div li {
+    display: inline-block;
+    padding: 40px;
+  }
+  
+  ol,
+  ul {
+    padding-left: 33rem;
+  }
+
+  #banner {
+    background-color: #fff3e2;
+    width: 100%;
+    height: auto;
+  }
+  .banner_heading {
+    color: black;
+    font-size: 100px;
+    text-align: center;
+    font-weight: 700;
+  }
+  .banner_heading {
+    margin: 150px;
+    font-size: 70px;
+  }
+  .little {
+    font-size: 23px;
+    margin-left: 104px;
+    margin-bottom: 20px;
+  }
+  #get {background: linear-gradient(61deg,#FF8008 0%,#FFC837 100%);
+    background-color: #eda12f;
+    border: 2px solid #eda12f;
+    border-radius: 10px;
+    width: 180px;
+    height: 60px;
+    margin: 24px;
+    margin-left: 111px;
+  }
+  #get:hover {
+    background-color: #fc9a06;
+  }
+  #enroll a{
+    text-decoration: none;}
